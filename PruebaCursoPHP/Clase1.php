@@ -18,7 +18,7 @@
             return "No disponible";
           }
         }
-
+//datos
     }
 
 $php = new Curso();
